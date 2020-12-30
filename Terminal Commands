@@ -1,0 +1,5 @@
+#This should install all of the packages in list, but you must install yay first
+sudo yay -S --needed - < packages.txt
+
+#This will sort out the AUR packages and install with pacman
+sudo pacman -S --needed $(comm -12 <(pacman -Slq | sort) <(sort packages.txt))
