@@ -1,3 +1,6 @@
+#This makes the package list
+pacman -Qqe > packages.txt
+
 #This should install all of the packages in list, but you must install yay first
 yay -S --needed - < packages.txt
 
