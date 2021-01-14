@@ -44,13 +44,14 @@ firefox
 flex
 galculator
 gcc
-gedit
 glances
 gnu-free-fonts
 gnu-netcat
 grub
 grub-tools
 grub2-theme-endeavouros
+gruvbox-dark-icons-gtk
+gruvbox-material-icon-theme-git
 gst-libav
 gst-plugins-bad
 gst-plugins-ugly
@@ -77,6 +78,8 @@ ipw2100-fw
 ipw2200-fw
 iwd
 jfsutils
+joplin
+joplin-desktop
 jq
 keyserver-rank
 kitty
@@ -113,6 +116,7 @@ mtools
 nano
 ndisc6
 neofetch
+neovim-git
 net-tools
 netctl
 network-manager-applet
@@ -141,6 +145,7 @@ polkit-gnome
 poppler-glib
 pptpclient
 pulseaudio
+python-pip
 r8168
 reflector
 reflector-simple
@@ -152,6 +157,7 @@ s-nail
 s-tui
 scrot
 seahorse
+signal-desktop-beta-bin
 smartmontools
 solid
 spotify
@@ -180,7 +186,6 @@ upower
 usb_modeswitch
 usbutils
 vi
-visual-studio-code-bin
 welcome
 wget
 which
@@ -205,6 +210,7 @@ xorg-xinit
 xorg-xinput
 xorg-xkill
 xorg-xrandr
+xsel
 xterm
 yad
 yay
